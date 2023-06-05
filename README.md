@@ -13,9 +13,5 @@ Each folder contains source code for HTML and CSS examples, including:
 <li>Native Canvas
 <li>And more...
 
-## Social
-[Twiiter](https://twitter.com/saver_dev)
-[Linktree](https://linktr.ee/saver_dev)
-
 ## Contributing
 Currently, I have no contribution plans, but If you have any good examples, feel free to open an issue or submit a PR.
