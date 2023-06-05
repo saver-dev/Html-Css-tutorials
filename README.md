@@ -14,10 +14,8 @@ Each folder contains source code for HTML and CSS examples, including:
 <li>And more...
 
 ## Social
-[Twiiter](https://twitter.com/saver_dev)<br><br>
-[Linktree](https://linktr.ee/saver_dev)<br><br>
-[Discord Server](https://discord.gg/gTsXWmGSKN) - in development<br><br>
+[Twiiter](https://twitter.com/saver_dev)
+[Linktree](https://linktr.ee/saver_dev)
 
-  
 ## Contributing
 Currently, I have no contribution plans, but If you have any good examples, feel free to open an issue or submit a PR.
